@@ -1,0 +1,19 @@
+# Arquivos e pastas do sistema
+.DS_Store
+Thumbs.db
+
+# Pastas de dependências (caso use npm no futuro)
+node_modules/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+
+# Configurações de editor
+.vscode/
+.idea/
+*.code-workspace
